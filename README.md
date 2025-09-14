@@ -15,7 +15,7 @@ La aplicación permite a los usuarios ingresar nombres en una lista y realizar u
 > ⚠️ Estas son imágenes de referencia.
 
 ![Pantalla de ingreso de nombres](./screenshots/ingreso-nombres.png)
-![Resultado del sorteo](./screenshots/resultado-sorteo.png)
+![Resultado del sorteo](./screenshots/resultado-sorteo.PNG)
 
 ---
 
